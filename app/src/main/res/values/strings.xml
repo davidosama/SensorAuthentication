@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sensor Authentication</string>
+    <string name="button">Start</string>
+    <string name="textView">Press Start</string>
+</resources>
